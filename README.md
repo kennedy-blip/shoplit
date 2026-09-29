@@ -1,6 +1,6 @@
-# Kibo Goods — Lightweight E-Commerce Storefront
+# Kibo Goods  — Lightweight E-Commerce Storefront
 
-A clean, zero-dependency storefront starter template built with semantic HTML5, modern CSS, and vanilla JavaScript.
+A clean,  zero-dependency storefront starter template built with semantic HTML5, modern CSS, and vanilla JavaScript.
 
 ## Project Structure
 
