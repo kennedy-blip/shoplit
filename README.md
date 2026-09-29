@@ -15,11 +15,11 @@ shop-project /
 - **Responsive Product Grid:** Adaptive  CSS Grid layout that scales cleanly across mobile, tablet, and desktop screens.
 - **Category Filtering & Live Search:** Filter items by category (`All`, `Workspace`, `Kitchen`, `Carry`) or search by keyword in real time.
 - **Interactive Shopping Cart Drawer:** Slide-over cart supporting item additions, quantity adjustments,  subtotal calculation, and `localStorage` persistence across page reloads.
-- **Zero Build Tools Required:** Runs directly in any modern browser with no bundlers, frameworks, or external dependencies.
+- **Zero Build Tools Required:** Runs directly in any modern browser with no bundlers, frameworks,  or external dependencies.
 
 ## Getting Started
 
-1. Unzip the archive and open the `shop-project` folder.
+1. Unzip the archive and open the `shop-project` folde r.
 2. Double-click `index.html` to open it in your web browser, or serve it locally:
    ```bash
    python3 -m http.server 8000
