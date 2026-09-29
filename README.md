@@ -20,7 +20,7 @@ shop-project /
 ## Getting Started
 
 1. Unzip the archive and open the `shop-project` folde r.
-2. Double-click `index.html` to open it in your web browser, or serve it locally:
+2. Double-click `index.html` to open it i n your web browser, or serve it locally:
    ```bash
    python3 -m http.server 8000
    ```
