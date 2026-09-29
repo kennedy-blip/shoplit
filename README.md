@@ -28,6 +28,6 @@ shop-project /
 
 ## Customization
 
-- **Products:** Edit the `PRODUCTS` array inside the `<script>` tag in `index.html` to update names, categories, prices, descriptions, or replace emoji placeholders with `<img>` tags.
+- **Products:** Edit the `PRODUCTS` array insi de the `<script>` tag in `index.html` to update names, categories, prices, descriptions, or replace emoji placeholders with `<img>` tags.
 - **Theme Colors:** Adjust the CSS custom properties (`--bg`, `--accent`, `--text`, `--border`) inside `:root` at the top of `index.html`.
 - **Checkout Integration:** Replace the click handler on `#checkoutBtn` with a call to your payment provider (e.g., Stripe Checkout, Paystack, or M-Pesa Daraja API) .
