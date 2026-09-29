@@ -14,7 +14,7 @@ shop-project /
 
 - **Responsive Product Grid:** Adaptive  CSS Grid layout that scales cleanly across mobile, tablet, and desktop screens.
 - **Category Filtering & Live Search:** Filter items by category (`All`, `Workspace`, `Kitchen`, `Carry`) or search by keyword in real time.
-- **Interactive Shopping Cart  Drawer:** Slide-over cart supporting item additions, quantity adjustments,  subtotal calculation, and `localStorage` persistence across   reloads.
+- **Interactive Shopping Cart  Drawer:** Slide-ov er cart supporting item additions, quantity adjustments,  subtotal calculation, and `localStorage` persistence across   reloads.
 - **Zero Build Tools Required:** Runs directly in any modern browser with no bundlers, frameworks,  or e xternal dependencies.
 
 ## Getting Started
