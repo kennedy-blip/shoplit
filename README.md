@@ -5,7 +5,7 @@ A clean,  zero-dependency storefront starter template built with semantic HTML5,
 ## Project Structure
 
 ```text
-shop-project/
+shop-project /
 ├── index.html      # Complete storefront UI, styles, product catalog, and cart logic
 └── README.md       # Project documentation  and setup guide
 ```
